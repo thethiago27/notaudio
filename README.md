@@ -8,3 +8,4 @@ This is a simple bot that will convert any audio file to text and send it to you
 
 - [NodeJS](https://nodejs.org/en/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Speech-to-Text](https://cloud.google.com/speech-to-text)
